@@ -2,16 +2,16 @@
 
 A Fun and interactive 3D dice rolling app built with React.js and Three.js to provide a realistic dice rolling experience. The app simulates rolling a dice with smooth 3D animations and returns random results for an engaging user experience.
 
-  ## 🚀 Features",
-  - ✅ Realistic 3D dice animation",
-  - ✅ Physics-based rolling effect",
-  - ✅ Randomized dice results",
-  - ✅ Smooth UI with React.js and Three.js",
+  ## 🚀 Features
+  - ✅ Realistic 3D dice animation
+  - ✅ Physics-based rolling effect
+  - ✅ Randomized dice results
+  - ✅ Smooth UI with React.js and Three.js
   
-## 🛠 Tech Stack",
+## 🛠 Tech Stack
   
-- **Frontend:** React.js, Three.js, Tailwind CSS",
-- **3D Graphics:** Three.js",
+- **Frontend:** React.js, Three.js, Tailwind CSS
+- **3D Graphics:** Three.js
 ---
 
 # Hi, I'm Nirav Mathukiya! 👋
